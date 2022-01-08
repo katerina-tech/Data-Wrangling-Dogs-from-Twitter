@@ -4,7 +4,7 @@
    </a>
 </p>
 <h3 align="center"><a href='https://www.udacity.com/course/data-analyst-nanodegree--nd002'> Udacity Data Analyst Degree </a></h3>
-<h4 align="center">  Project 2: Investigate a Dataset TMDb MOvie Data </h4>
+<h4 align="center">  Project 4: WeRateDogs Twiiter Data Wrangling </h4>
 
 ## Table of Contents
 - [Introduktion](#summary)
